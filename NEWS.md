@@ -5,6 +5,7 @@
 1. add todos in readme
 1. add 20-behavior.Rmd
 1. add build R script
+    1. update build R script from source
 1. add load R script
 1. add output folder
 1. add desc *Just Dance 2019 游戏笔记*
