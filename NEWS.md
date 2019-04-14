@@ -3,3 +3,5 @@
 1. add r proj and news
 1. add readme
 1. add todos in readme
+1. add 20-behavior.Rmd
+1. add build R script
