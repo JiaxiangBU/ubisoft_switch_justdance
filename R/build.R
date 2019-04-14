@@ -10,6 +10,7 @@ dir_info("analysis", regexp = "\\.(html|md)$") %>%
         render = walk(path, file_delete)
     )
 
+if (!dir_exists("output")) dir_create("output")
 dir_info("output", regexp = "\\.(html)$") %>%
     mutate(
         render = walk(path, file_delete)
