@@ -7,3 +7,4 @@
 1. add build R script
 1. add load R script
 1. add output folder
+1. add desc *Just Dance 2019 游戏笔记*
